@@ -1,0 +1,5 @@
+{
+  "name": "FrameMaster Pro",
+  "description": "A professional video frame extraction tool. Import videos, select precise moments, and export high-resolution (1080p/4K) stills in PNG or JPEG formats. Includes AI-powered frame analysis.",
+  "requestFramePermissions": []
+}
